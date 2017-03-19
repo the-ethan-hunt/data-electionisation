@@ -16,9 +16,9 @@ Data Electionisation is a data-science project that visualises data from the 201
 <h1> <u> To-do </u> </h1>
 <i><a href = "#top"> Back to contents </a></i>
 <br><br>
-- [ ] Add 2012 election results of the respective states
-- [ ] Display the results using pie-charts (For seat distribution and voting percentages)
-- [ ] Display the bar charts showing decrease/increase in number of seats/voting percentages from past results
+- [ ] Add 2012 election results of the respective states<br>
+- [ ] Display the results using pie-charts (For seat distribution and voting percentages)<br>
+- [ ] Display the bar charts showing decrease/increase in number of seats/voting percentages from past results.<br>
 
 
 <div id = "states"> <br> </div>
